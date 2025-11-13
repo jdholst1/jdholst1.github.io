@@ -1,6 +1,6 @@
 ---
-title: "about me"
-subtitle: "my data science portfolio"
+title: "Data Cleansing"
+subtitle: "Using Pandas, Polars, and Pyspark"
 # use quarto markdown to 
 ---
 

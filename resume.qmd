@@ -11,38 +11,37 @@ Computer Scientist, Data Scientist, Mathematician
 
 ### Specialized in
 
-Python, C#, Machine Learning
+Python, C#/C++, JavaScript
 
 
 ### Research interests
 
-AI Models, Rust, Java
+AI Models, Graphic User Interfaces, Data Organization
 
 
 ## Education
 
-`2022-2024`
+`2022-2025`
 __BYU-Idaho__
 
-Bachelor's of Computer Science
-
+Bachelor's of Computer Science, with a Minor in Mathematics and emphasis on Machine Learning
 
 ## Occupation
 
-`2022-2024`
+`2022-Present`
 __Shift Lead__, Walgreens Co.
 
-- Evaluated best solutions using a set of guiding principles and logical sense
-- Optimized placement of product for purchase
-- Resolved conflicts for customer satisfaction
-- Trained employees to use best practices in customer service, product availability, and photo counter processes
+- Took the lead in ensuring photo orders were being completed on time, that supplies were readily available, and that customers were satisfied with their orders; this involved making phone calls with customers on orders not received and with a third party organization to track sendout orders
+- Exercised problem-solving skills in resolving concerns with pricing mismatches, handling technical problems at the registers, and ensuring proper handling of company proceedures with a focus on customer satisfaction
+- Trained employees on efficient shelf-stocking practices, keeping a clean workspace, and how to efficiently fill out online and photo orders, including passport photos, canvas prints, and customized merchandise
+- Took feedback from the store manager and communicated with other members of store leadership to ensure that problems that extended beyond my shift would be appropriately handled
 
 `2019`
 __Data Entry__, North Park Transportation
 
-- Transferred data from shipping bills to a digital format
-- Learned area information to optimize routing and package preparation
+- Transferred data from shipping bills to a digital format with speed and accuracy
+- Learned area information to optimize routing and package preparation, becoming familiar with proceedures for handling hazardous materials
 
 <!-- ### Footer
 
-Last updated: May 2024 -->
+Last updated: November 2025 -->

@@ -1,6 +1,6 @@
 ---
-title: "about me"
-subtitle: "my data science portfolio"
+title: "Machine Learning"
+subtitle: "Using Jupyter notebooks, Tensorflow, Google Colab, and Databricks"
 # use quarto markdown to 
 ---
 
