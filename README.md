@@ -9,4 +9,3 @@ There's still a lot of work to be done on this repository, I'm presently trying 
 
 ##Disclaimer
 The framework for the website was created using a template from school (hence the license), from which I customized it and plan on filling it with projects also from school as well as projects of my own making.
->>>>>>> Stashed changes
