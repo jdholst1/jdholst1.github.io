@@ -1,0 +1,23 @@
+---
+title: "Other Tech"
+subtitle: "Backups, Code Sharing, Task Planning, Soft Skills, and More"
+# use quarto markdown to 
+---
+
+## GitHub/Git
+Understanding of most basics with regards to making commits and branching from a repository. I have experience with resolving merge conflicts and setting up/abiding by rules for code review before merging.
+
+In addition, I have good understanding of GitHub desktop and GitHub's built in task manager for creating and fulfilling tasks for a repository. I can set up GitHub in conjunction with VS Code, JetBrains IDEs such as IntelliJ, and even Android Studio.
+
+I know the basics of using Git commands, but generally prefer to use GitHub desktop when it's sufficient.
+
+
+## Team Collaboration Software
+In addition to GitHub's task planner, I have used Microsoft Teams and Jira to collaborate with team members on features that needed implementation or bugs that needed fixing. I also have experience using LiveShare to work on a project concurrently.
+
+
+## Competitions
+I've participated in a couple of Hackathons; here are the projects I was a part of:
+
+[Find Arnold](https://github.com/RunningGriffin/Hackathon-BYUI-Fall2023)
+[NetBook](https://github.com/mattonri/netBook)

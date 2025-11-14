@@ -4,7 +4,29 @@ subtitle: "Working with JavaScript, Wordpress, HTML, CSS, and SASS"
 # use quarto markdown to 
 ---
 
-# Title 1 Header
-## Title 2 Header
+## Proficiencies Overview
 
-[MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+### Significant Experience (Used over the course of several projects and for over a year)
+HTML, CSS, JavaScript, React, MySQL
+
+
+### Moderate Experience (Used this on one or two projects before)
+Wordpress, Docker, SASS, JS Node
+
+
+### Familiarity (I know what it is, what it's generally used for)
+Angular, Vue, Bootstrap, PHP
+
+
+
+## Projects
+
+### Individual Projects:
+
+[Sentiment Analysis Web App](https://github.com/jdholst1/Sentiment-Analysis-Tool)
+
+
+### Collaborative Projects:
+
+[Class Roulette Web App](https://github.com/blissfulsaint/classroulette)
+[NetBook](https://github.com/mattonri/netBook)

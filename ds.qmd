@@ -1,0 +1,17 @@
+---
+title: "Data Science"
+subtitle: "Data Cleansing, Exploration, Presentation, and Analysis"
+# use quarto markdown to 
+---
+
+# Language Proficiencies
+
+## Significant Experience
+MySQL, Pandas, Polars, PySpark
+
+## Familiar, used at least once before
+SQLite, MongoDB, R Shiny
+
+
+# Projects
+

@@ -1,356 +1,63 @@
 [
   {
-    "objectID": "competition.html",
-    "href": "competition.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Competition"
-    ]
-  },
-  {
-    "objectID": "competition.html#title-2-header",
-    "href": "competition.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Competition"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Projects/project3.html",
-    "href": "Cleansing_Projects/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Projects/project1.html",
-    "href": "Cleansing_Projects/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Projects/project4.html",
-    "href": "Cleansing_Projects/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project2.html",
-    "href": "Full_Stack/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project5.html",
-    "href": "Full_Stack/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 5"
-    ]
-  },
-  {
-    "objectID": "Competition/project3.html",
-    "href": "Competition/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competition",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "Competition/project1.html",
-    "href": "Competition/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competition",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "Competition/project4.html",
-    "href": "Competition/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competition",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Exploration/project2.html",
-    "href": "Cleansing_Exploration/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project5.html",
-    "href": "Cleansing_Exploration/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "story_telling.html",
-    "href": "story_telling.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Story Telling"
-    ]
-  },
-  {
-    "objectID": "story_telling.html#title-2-header",
-    "href": "story_telling.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Story Telling"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "index.html#title-2-header",
-    "href": "index.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "Machine_Learning/project2.html",
-    "href": "Machine_Learning/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "Machine_Learning/project5.html",
-    "href": "Machine_Learning/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 5"
-    ]
-  },
-  {
-    "objectID": "cleansing.html",
-    "href": "cleansing.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Cleansing"
-    ]
-  },
-  {
-    "objectID": "cleansing.html#title-2-header",
-    "href": "cleansing.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Cleansing"
-    ]
-  },
-  {
-    "objectID": "exploration.html",
-    "href": "exploration.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Exploration"
-    ]
-  },
-  {
-    "objectID": "exploration.html#title-2-header",
-    "href": "exploration.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Exploration"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project2.html",
-    "href": "Story_Telling/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project5.html",
-    "href": "Story_Telling/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 5"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project4.html",
-    "href": "Story_Telling/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project1.html",
-    "href": "Story_Telling/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project3.html",
-    "href": "Story_Telling/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 3"
-    ]
-  },
-  {
     "objectID": "resume.html",
     "href": "resume.html",
     "title": "Jacob Holst",
     "section": "",
-    "text": "Computer Scientist, Data Scientist, Mathematician"
-  },
-  {
-    "objectID": "resume.html#currently",
-    "href": "resume.html#currently",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "Standing on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples."
+    "text": "Software Engineer, Full-Stack Developer, Data Scientist"
   },
   {
     "objectID": "resume.html#education",
     "href": "resume.html#education",
     "title": "Jacob Holst",
     "section": "Education",
-    "text": "Education\n2022-2024 BYU-Idaho\nBachelor’s of Computer Science"
-  },
-  {
-    "objectID": "resume.html#awards",
-    "href": "resume.html#awards",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France"
-  },
-  {
-    "objectID": "resume.html#publications",
-    "href": "resume.html#publications",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001"
+    "text": "Education\n2022-2025 BYU-Idaho\nBachelor’s of Computer Science, with a Minor in Mathematics and emphasis on Machine Learning"
   },
   {
     "objectID": "resume.html#occupation",
     "href": "resume.html#occupation",
     "title": "Jacob Holst",
     "section": "Occupation",
-    "text": "Occupation\n2022-2024 Shift Lead, Walgreens Co.\n\nEvaluated best solutions using a set of guiding principles and logical sense\nOptimized placement of product for purchase\nResolved conflicts for customer satisfaction\nTrained employees to use best practices in customer service, product availability, and photo counter processes\n\n2019 Data Entry, North Park Transportation\n\nTransferred data from shipping bills to a digital format\nLearned area information to optimize routing and package preparation"
+    "text": "Occupation\n2022-Present Shift Lead, Walgreens Co.\n\nTook the lead in ensuring photo orders were being completed on time, that supplies were readily available, and that customers were satisfied with their orders; this involved making phone calls with customers on orders not received and with a third party organization to track sendout orders\nExercised problem-solving skills in resolving concerns with pricing mismatches, handling technical problems at the registers, and ensuring proper handling of company proceedures with a focus on customer satisfaction\nTrained employees on efficient shelf-stocking practices, keeping a clean workspace, and how to efficiently fill out online and photo orders, including passport photos, canvas prints, and customized merchandise\nTook feedback from the store manager and communicated with other members of store leadership to ensure that problems that extended beyond my shift would be appropriately handled\n\n2019 Data Entry, North Park Transportation\n\nTransferred data from shipping bills to a digital format with speed and accuracy\nLearned area information to optimize routing and package preparation, becoming familiar with proceedures for handling hazardous materials"
   },
   {
-    "objectID": "Machine_Learning/project4.html",
-    "href": "Machine_Learning/project4.html",
-    "title": "Client Report - [Insert Project Title]",
+    "objectID": "oop.html",
+    "href": "oop.html",
+    "title": "about me",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "text": "MarkDown Basics",
     "crumbs": [
-      "Machine Learning",
-      "Project 4"
+      "Object-Oriented Programming"
     ]
   },
   {
-    "objectID": "Machine_Learning/project1.html",
-    "href": "Machine_Learning/project1.html",
-    "title": "Client Report - [Insert Project Title]",
+    "objectID": "oop.html#title-2-header",
+    "href": "oop.html#title-2-header",
+    "title": "about me",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "text": "MarkDown Basics",
     "crumbs": [
-      "Machine Learning",
-      "Project 1"
+      "Object-Oriented Programming"
     ]
   },
   {
-    "objectID": "Machine_Learning/project3.html",
-    "href": "Machine_Learning/project3.html",
+    "objectID": "OOP/project4.html",
+    "href": "OOP/project4.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 3"
-    ]
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "OOP/project2.html",
+    "href": "OOP/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ml.html",
     "href": "ml.html",
-    "title": "about me",
+    "title": "Machine Learning",
     "section": "",
     "text": "MarkDown Basics",
     "crumbs": [
@@ -360,7 +67,7 @@
   {
     "objectID": "ml.html#title-2-header",
     "href": "ml.html#title-2-header",
-    "title": "about me",
+    "title": "Machine Learning",
     "section": "",
     "text": "MarkDown Basics",
     "crumbs": [
@@ -368,121 +75,291 @@
     ]
   },
   {
-    "objectID": "Cleansing_Exploration/project4.html",
-    "href": "Cleansing_Exploration/project4.html",
+    "objectID": "Machine_Learning/project4.html",
+    "href": "Machine_Learning/project4.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "Cleansing_Exploration/project1.html",
-    "href": "Cleansing_Exploration/project1.html",
+    "objectID": "Machine_Learning/project2.html",
+    "href": "Machine_Learning/project2.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "Cleansing_Exploration/project3.html",
-    "href": "Cleansing_Exploration/project3.html",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi, welcome to my web site!",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "Full_Stack/project5.html",
+    "href": "Full_Stack/project5.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Competition/project5.html",
-    "href": "Competition/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competition",
-      "Project 5"
-    ]
-  },
-  {
-    "objectID": "Competition/project2.html",
-    "href": "Competition/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competition",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project4.html",
-    "href": "Full_Stack/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project1.html",
-    "href": "Full_Stack/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 1"
-    ]
   },
   {
     "objectID": "Full_Stack/project3.html",
     "href": "Full_Stack/project3.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Full_Stack/project1.html",
+    "href": "Full_Stack/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "DS/project5.html",
+    "href": "DS/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "DS/project3.html",
+    "href": "DS/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "DS/project1.html",
+    "href": "DS/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Algorithms/project5.html",
+    "href": "Algorithms/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Algorithms/project3.html",
+    "href": "Algorithms/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Algorithms/project1.html",
+    "href": "Algorithms/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Algorithms/project2.html",
+    "href": "Algorithms/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Algorithms/project4.html",
+    "href": "Algorithms/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "algorithms.html",
+    "href": "algorithms.html",
+    "title": "Algorithms",
+    "section": "",
+    "text": "Python, C#, Java, JavaScript\n\n\n\nC++, Rust\n\n\n\nGoLang, C",
     "crumbs": [
-      "Full Stack",
-      "Project 3"
+      "Algorithms"
     ]
   },
   {
-    "objectID": "Cleansing_Projects/project5.html",
-    "href": "Cleansing_Projects/project5.html",
-    "title": "Client Report - [Insert Project Title]",
+    "objectID": "algorithms.html#proficiencies-overview",
+    "href": "algorithms.html#proficiencies-overview",
+    "title": "Algorithms",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "text": "Python, C#, Java, JavaScript\n\n\n\nC++, Rust\n\n\n\nGoLang, C",
     "crumbs": [
-      "Data Cleansing",
-      "Project 5"
+      "Algorithms"
     ]
   },
   {
-    "objectID": "Cleansing_Projects/project2.html",
-    "href": "Cleansing_Projects/project2.html",
+    "objectID": "DS/project2.html",
+    "href": "DS/project2.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "DS/project4.html",
+    "href": "DS/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "ds.html",
+    "href": "ds.html",
+    "title": "Data Science",
+    "section": "",
+    "text": "MySQL, Pandas, Polars, PySpark\n\n\n\nSQLite, MongoDB, R Shiny",
     "crumbs": [
-      "Data Cleansing",
-      "Project 2"
+      "Data Science"
     ]
+  },
+  {
+    "objectID": "ds.html#significant-experience",
+    "href": "ds.html#significant-experience",
+    "title": "Data Science",
+    "section": "",
+    "text": "MySQL, Pandas, Polars, PySpark",
+    "crumbs": [
+      "Data Science"
+    ]
+  },
+  {
+    "objectID": "ds.html#familiar-used-at-least-once-before",
+    "href": "ds.html#familiar-used-at-least-once-before",
+    "title": "Data Science",
+    "section": "",
+    "text": "SQLite, MongoDB, R Shiny",
+    "crumbs": [
+      "Data Science"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project2.html",
+    "href": "Full_Stack/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Full_Stack/project4.html",
+    "href": "Full_Stack/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
     "objectID": "full_stack.html",
     "href": "full_stack.html",
-    "title": "about me",
+    "title": "Full Stack",
     "section": "",
-    "text": "MarkDown Basics",
+    "text": "HTML, CSS, JavaScript, React, MySQL\n\n\n\nWordpress, Docker, SASS, JS Node\n\n\n\nAngular, Vue, Bootstrap, PHP",
     "crumbs": [
       "Full Stack"
     ]
   },
   {
-    "objectID": "full_stack.html#title-2-header",
-    "href": "full_stack.html#title-2-header",
-    "title": "about me",
+    "objectID": "full_stack.html#proficiencies-overview",
+    "href": "full_stack.html#proficiencies-overview",
+    "title": "Full Stack",
     "section": "",
-    "text": "MarkDown Basics",
+    "text": "HTML, CSS, JavaScript, React, MySQL\n\n\n\nWordpress, Docker, SASS, JS Node\n\n\n\nAngular, Vue, Bootstrap, PHP",
     "crumbs": [
       "Full Stack"
+    ]
+  },
+  {
+    "objectID": "full_stack.html#projects",
+    "href": "full_stack.html#projects",
+    "title": "Full Stack",
+    "section": "Projects",
+    "text": "Projects\n\nIndividual Projects:\nSentiment Analysis Web App\n\n\nCollaborative Projects:\nClass Roulette Web App NetBook",
+    "crumbs": [
+      "Full Stack"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project1.html",
+    "href": "Machine_Learning/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Machine_Learning/project3.html",
+    "href": "Machine_Learning/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Machine_Learning/project5.html",
+    "href": "Machine_Learning/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "OOP/project1.html",
+    "href": "OOP/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "OOP/project3.html",
+    "href": "OOP/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "OOP/project5.html",
+    "href": "OOP/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "other.html",
+    "href": "other.html",
+    "title": "Other Tech",
+    "section": "",
+    "text": "Understanding of most basics with regards to making commits and branching from a repository. I have experience with resolving merge conflicts and setting up/abiding by rules for code review before merging.\nIn addition, I have good understanding of GitHub desktop and GitHub’s built in task manager for creating and fulfilling tasks for a repository. I can set up GitHub in conjunction with VS Code, JetBrains IDEs such as IntelliJ, and even Android Studio.\nI know the basics of using Git commands, but generally prefer to use GitHub desktop when it’s sufficient.",
+    "crumbs": [
+      "Other"
+    ]
+  },
+  {
+    "objectID": "other.html#githubgit",
+    "href": "other.html#githubgit",
+    "title": "Other Tech",
+    "section": "",
+    "text": "Understanding of most basics with regards to making commits and branching from a repository. I have experience with resolving merge conflicts and setting up/abiding by rules for code review before merging.\nIn addition, I have good understanding of GitHub desktop and GitHub’s built in task manager for creating and fulfilling tasks for a repository. I can set up GitHub in conjunction with VS Code, JetBrains IDEs such as IntelliJ, and even Android Studio.\nI know the basics of using Git commands, but generally prefer to use GitHub desktop when it’s sufficient.",
+    "crumbs": [
+      "Other"
+    ]
+  },
+  {
+    "objectID": "other.html#team-collaboration-software",
+    "href": "other.html#team-collaboration-software",
+    "title": "Other Tech",
+    "section": "Team Collaboration Software",
+    "text": "Team Collaboration Software\nIn addition to GitHub’s task planner, I have used Microsoft Teams and Jira to collaborate with team members on features that needed implementation or bugs that needed fixing. I also have experience using LiveShare to work on a project concurrently.",
+    "crumbs": [
+      "Other"
+    ]
+  },
+  {
+    "objectID": "other.html#competitions",
+    "href": "other.html#competitions",
+    "title": "Other Tech",
+    "section": "Competitions",
+    "text": "Competitions\nI’ve participated in a couple of Hackathons; here are the projects I was a part of:\nFind Arnold NetBook",
+    "crumbs": [
+      "Other"
     ]
   }
 ]

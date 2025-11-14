@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Jacob Holst - Data Science Portfolio"
+  title: "Jacob Holst - Computer Science Portfolio"
   favicon: Images/favicon.png
   back-to-top-navigation: true
   repo-url: https://github.com/username/username.github.io
@@ -10,7 +10,7 @@ website:
 
   page-footer: 
     border: true
-    left: "Jacob Holst 2024©"
+    left: "Jacob Holst 2025©"
     right: 
       - icon: linkedin
         href: Your_LinkedIn_URL
@@ -23,89 +23,89 @@ website:
         file: index.qmd
       - text: "My Resume"
         file: resume.qmd
-      - text: "Data Cleansing"
-        file: cleansing.qmd
-      - text: "Data Exploration"
-        file: exploration.qmd
-      - text: "Story Telling"
-        file: story_telling.qmd
+      - text: "Algorithms"
+        file: algorithms.qmd
+      - text: "Data Science"
+        file: ds.qmd
+      - text: "Object-Oriented Programming"
+        file: oop.qmd
       - text: "Machine Learning"
         file: ml.qmd
       - text: "Full Stack"
         file: full_stack.qmd
-      - text: "Competition"
-        file: competition.qmd
-  
-  # learn more about navication here https://quarto.org/docs/websites/website-navigation.html
+      - text: "Other"
+        file: other.qmd
+
+
   # comment out any of the sections below to turn off the sidebar
 
   sidebar: 
-    - title: "Data Cleansing"
+    - title: "Algorithms"
       style: "docked"
       background: light
       contents:
-        - text: "Data Cleansing"
-          file: cleansing.qmd
+        - text: "Algorithms"
+          file: algorithms.qmd
         - text: "---"
-        - text: "Project 1"
-          file: Cleansing_Projects/project1.qmd
-        - text: "---"
-        - text: "Project 2"
-          file: Cleansing_Projects/project2.qmd
-        - text: "---"
-        - text: "Project 3"
-          file: Cleansing_Projects/project3.qmd
-        - text: "---"
-        - text: "Project 4"
-          file: Cleansing_Projects/project4.qmd
-        - text: "---"
-        - text: "Project 5"
-          file: Cleansing_Projects/project5.qmd
-        - text: "---"
-    - title: "Data Exploration"
+        # - text: "Project 1"
+        #   file: Algorithms/project1.qmd
+        # - text: "---"
+        # - text: "Project 2"
+        #   file: Algorithms/project2.qmd
+        # - text: "---"
+        # - text: "Project 3"
+        #   file: Algorithms/project3.qmd
+        # - text: "---"
+        # - text: "Project 4"
+        #   file: Algorithms/project4.qmd
+        # - text: "---"
+        # - text: "Project 5"
+        #   file: Algorithms/project5.qmd
+        # - text: "---"
+    - title: "Data Science"
       style: "docked"
       background: light
       contents:
-        - text: "Data Exploration"
-          file: exploration.qmd
+        - text: "Data Science"
+          file: ds.qmd
         - text: "---"
-        - text: "Project 1"
-          file: Exploration_Projects/project1.qmd
-        - text: "---"
-        - text: "Project 2"
-          file: Exploration_Projects/project2.qmd
-        - text: "---"
-        - text: "Project 3"
-          file: Exploration_Projects/project3.qmd
-        - text: "---"
-        - text: "Project 4"
-          file: Exploration_Projects/project4.qmd
-        - text: "---"
-        - text: "Project 5"
-          file: Exploration_Projects/project5.qmd
-        - text: "---"
-    - title: "Story Telling"
+        # - text: "Project 1"
+        #   file: DS/project1.qmd
+        # - text: "---"
+        # - text: "Project 2"
+        #   file: DS/project2.qmd
+        # - text: "---"
+        # - text: "Project 3"
+        #   file: DS/project3.qmd
+        # - text: "---"
+        # - text: "Project 4"
+        #   file: DS/project4.qmd
+        # - text: "---"
+        # - text: "Project 5"
+        #   file: DS/project5.qmd
+        # - text: "---"
+    - title: "Object-Oriented Programming"
       style: "docked"
       background: light
       contents:
-        - text: "Story Telling"
-          file: story_telling.qmd
+        - text: "Object-Oriented Programming"
+          file: oop.qmd
         - text: "---"
-        - text: "Project 1"
-          file: Story_Telling/project1.qmd
-        - text: "---"
-        - text: "Project 2"
-          file: Story_Telling/project2.qmd
-        - text: "---"
-        - text: "Project 3"
-          file: Story_Telling/project3.qmd
-        - text: "---"
-        - text: "Project 4"
-          file: Story_Telling/project4.qmd
-        - text: "---"
-        - text: "Project 5"
-          file: Story_Telling/project5.qmd
-        - text: "---"
+        # - text: "Project 1"
+        #   file: OOP/project1.qmd
+        # - text: "---"
+        # - text: "Project 2"
+        #   file: OOP/project2.qmd
+        # - text: "---"
+        # - text: "Project 3"
+        #   file: OOP/project3.qmd
+        # - text: "---"
+        # - text: "Project 4"
+        #   file: OOP/project4.qmd
+        # - text: "---"
+        # - text: "Project 5"
+        #   file: OOP/project5.qmd
+        # - text: "---"
     - title: "Machine Learning"
       style: "docked"
       background: light
@@ -113,21 +113,21 @@ website:
         - text: "Machine Learning"
           file: ml.qmd
         - text: "---"
-        - text: "Project 1"
-          file: Machine_Learning/project1.qmd
-        - text: "---"
-        - text: "Project 2"
-          file: Machine_Learning/project2.qmd
-        - text: "---"
-        - text: "Project 3"
-          file: Machine_Learning/project3.qmd
-        - text: "---"
-        - text: "Project 4"
-          file: Machine_Learning/project4.qmd
-        - text: "---"
-        - text: "Project 5"
-          file: Machine_Learning/project5.qmd
-        - text: "---"
+        # - text: "Project 1"
+        #   file: Machine_Learning/project1.qmd
+        # - text: "---"
+        # - text: "Project 2"
+        #   file: Machine_Learning/project2.qmd
+        # - text: "---"
+        # - text: "Project 3"
+        #   file: Machine_Learning/project3.qmd
+        # - text: "---"
+        # - text: "Project 4"
+        #   file: Machine_Learning/project4.qmd
+        # - text: "---"
+        # - text: "Project 5"
+        #   file: Machine_Learning/project5.qmd
+        # - text: "---"
     - title: "Full Stack"
       style: "docked"
       background: light
@@ -135,53 +135,36 @@ website:
         - text: "Full Stack"
           file: full_stack.qmd
         - text: "---"
-        - text: "Project 1"
-          file: Full_Stack/project1.qmd
-        - text: "---"
-        - text: "Project 2"
-          file: Full_Stack/project2.qmd
-        - text: "---"
-        - text: "Project 3"
-          file: Full_Stack/project3.qmd
-        - text: "---"
-        - text: "Project 4"
-          file: Full_Stack/project4.qmd
-        - text: "---"
-        - text: "Project 5"
-          file: Full_Stack/project5.qmd
-        - text: "---"
-    - title: "Competition"
+        # - text: "Project 1"
+        #   file: Full_Stack/project1.qmd
+        # - text: "---"
+        # - text: "Project 2"
+        #   file: Full_Stack/project2.qmd
+        # - text: "---"
+        # - text: "Project 3"
+        #   file: Full_Stack/project3.qmd
+        # - text: "---"
+        # - text: "Project 4"
+        #   file: Full_Stack/project4.qmd
+        # - text: "---"
+        # - text: "Project 5"
+        #   file: Full_Stack/project5.qmd
+        # - text: "---"
+    - title: "Other"
       style: "docked"
       background: light
       contents:
-        - text: "Competition"
-          file: competition.qmd
+        - text: "Other"
+          file: other.qmd
         - text: "---"
-        - text: "Project 1"
-          file: Competition/project1.qmd
-        - text: "---"
-        - text: "Project 2"
-          file: Competition/project2.qmd
-        - text: "---"
-        - text: "Project 3"
-          file: Competition/project3.qmd
-        - text: "---"
-        - text: "Project 4"
-          file: Competition/project4.qmd
-        - text: "---"
-        - text: "Project 5"
-          file: Competition/project5.qmd
-        - text: "---"
+
   
 format:  
   html:
-    theme: #see this link to customize the theme with css (https://quarto.org/docs/output-formats/html-themes.html#dark-mode)
-      light: flatly # more themes can be found [here](https://quarto.org/docs/output-formats/html-themes.html)
+    theme:
+      light: flatly
       dark: darkly
       #light: cosmo
       #dark: [cosmo, theme-dark.scss]
     css: styles.css
     toc: true
-
-
-

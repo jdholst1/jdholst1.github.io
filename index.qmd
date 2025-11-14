@@ -1,10 +1,6 @@
 ---
-title: "Jacob Holst"
-subtitle: "Software Engineer, Full-Stack Developer, Mathematician"
+title: "Hi, welcome to my web site!"
+subtitle: "Each of the pages here gives an overview of my skills in a given field of technology. Feel free to take a look around!"
 # use quarto markdown to 
 ---
 
-# Title 1 Header
-## Title 2 Header
-
-[MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)

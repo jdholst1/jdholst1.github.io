@@ -2,7 +2,7 @@
 layout: cv
 title: "Jacob Holst"
 ---
-Computer Scientist, Data Scientist, Mathematician
+Software Engineer, Full-Stack Developer, Data Scientist
 
 <div id="webaddress">
 <a href="https://automatic-meme-4gwl794.pages.github.io/resume.html">My Website</a>
@@ -25,6 +25,7 @@ AI Models, Graphic User Interfaces, Data Organization
 __BYU-Idaho__
 
 Bachelor's of Computer Science, with a Minor in Mathematics and emphasis on Machine Learning
+
 
 ## Occupation
 
