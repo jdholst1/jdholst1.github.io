@@ -1,6 +1,6 @@
 ---
-title: "Hi, welcome to my web site!"
-subtitle: "Each of the pages here gives an overview of my skills in a given field of technology. Feel free to take a look around!"
+title: "Welcome to my web site!"
+subtitle: "Each of the pages here gives an overview of my skills in a given field of technology."
 # use quarto markdown to 
 ---
 

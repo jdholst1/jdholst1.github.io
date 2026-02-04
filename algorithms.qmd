@@ -1,18 +1,17 @@
 ---
 title: "Algorithms"
-subtitle: "Using Pandas, Polars, and Pyspark"
+subtitle: "Things I've built with an emphasis on performance"
 # use quarto markdown to 
 ---
 
 ## Proficiencies Overview
 
-### Significant Experience (Used for several years)
-Python, C#, Java, JavaScript
+### Significant Experience (Used these with performance in mind)
+Built several small projects meant to demonstrate principles of parallelism and concurrency using threads, processes, semaphores, pools, pipes, and more
+
+Likewise built several small projects in C# to demonstrate use of algorithms for analysis of their time complexities, including tree sorting algorithms such as DAG-shortest path and Dijkstra's method, along with sorting algorithms such as bubble sort and merge sort
 
 
-### Moderate Experience (About a year)
-C++, Rust
 
-
-### Familiarity (Used it before, but not much)
-GoLang, C
+### Moderate Experience (Used the language, but would need to look up syntax for improving performance)
+Java, JavaScript, C++, Rust

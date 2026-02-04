@@ -11,31 +11,31 @@
     "href": "resume.html#education",
     "title": "Jacob Holst",
     "section": "Education",
-    "text": "Education\n2022-2025 BYU-Idaho\nBachelor’s of Computer Science, with a Minor in Mathematics and emphasis on Machine Learning"
+    "text": "Education\n2022-2025 BYU-Idaho\nBachelor’s of Computer Science, with a Minor in Mathematics and emphasis on Machine Learning - 3.83 GPA"
   },
   {
     "objectID": "resume.html#occupation",
     "href": "resume.html#occupation",
     "title": "Jacob Holst",
     "section": "Occupation",
-    "text": "Occupation\n2022-Present Shift Lead, Walgreens Co.\n\nTook the lead in ensuring photo orders were being completed on time, that supplies were readily available, and that customers were satisfied with their orders; this involved making phone calls with customers on orders not received and with a third party organization to track sendout orders\nExercised problem-solving skills in resolving concerns with pricing mismatches, handling technical problems at the registers, and ensuring proper handling of company proceedures with a focus on customer satisfaction\nTrained employees on efficient shelf-stocking practices, keeping a clean workspace, and how to efficiently fill out online and photo orders, including passport photos, canvas prints, and customized merchandise\nTook feedback from the store manager and communicated with other members of store leadership to ensure that problems that extended beyond my shift would be appropriately handled\n\n2019 Data Entry, North Park Transportation\n\nTransferred data from shipping bills to a digital format with speed and accuracy\nLearned area information to optimize routing and package preparation, becoming familiar with proceedures for handling hazardous materials"
+    "text": "Occupation\nApril-July 2025 Software Developer Intern, Case Tech, LLc\n\nCustomized several EC2 instances to the needs of a project: implemented network traffic rules, set private keys, used SSH to access servers, and used different CPU types to host them\nUsed Wordpress to create a front-end interface for a company website, with Docker, MySQL, and Bash used to build the work environment; utilized wireframes in development\nCreated a job board React app designed similar the interface of indeed.com, with implemented OAuth and connection to a MySQL database through JS Node\n\n2022-2026 Shift Lead, Walgreens Co.\n\nResolved connection issues, printer jams, and other computer-related problems that coworkers could not resolve themselves, saving time and money that would go into fix-it tickets\nUsed algorithmic thinking to make inventory counts up to 20% more accurate\nReduced time spent both stocking and resetting shelves by up to 30% with principles of time complexity\nTrained several coworkers on procedures relating to money handling, step-by-step assembly of products in the photo lab, and making reports of daily compliance with company policy\nExercised reasoning skills and best judgment in finding creative solutions to a variety of problems, including finding lost photo orders, resolving computer errors with reading coupons, and fixing mismatching price labels\n\n2019 Data Entry, North Park Transportation\n\nTransferred data from shipping bills to a digital format with speed and accuracy\nLearned area information to optimize routing and package preparation, becoming familiar with proceedures for handling hazardous materials"
   },
   {
     "objectID": "oop.html",
     "href": "oop.html",
-    "title": "about me",
+    "title": "Object-Oriented Programming",
     "section": "",
-    "text": "MarkDown Basics",
+    "text": "Developed mods for Minecraft: Java Edition 1.20.1; used Gradle and IntelliJ for the development environment. Involves looking at prexisting class structures, finding methods and attributes that will help me accomplish a specific task, and making modifications to the code to add new content to the game. Successfully added custom items, blocks, and mobs.\nCurrently working on a C++ physics engine for a game modeled after The Legend of Zelda: Link’s Awakening. Uses a heirarchical structure of classes with an emphasis on inheritance and polymorphism\nUsing C#, created a physics engine for a Mario-style platformer with gravity, collisions, and working wall-jump mechanics\nMario Physics Engine in C#",
     "crumbs": [
       "Object-Oriented Programming"
     ]
   },
   {
-    "objectID": "oop.html#title-2-header",
-    "href": "oop.html#title-2-header",
-    "title": "about me",
+    "objectID": "oop.html#experience-in-java-c-and-c",
+    "href": "oop.html#experience-in-java-c-and-c",
+    "title": "Object-Oriented Programming",
     "section": "",
-    "text": "MarkDown Basics",
+    "text": "Developed mods for Minecraft: Java Edition 1.20.1; used Gradle and IntelliJ for the development environment. Involves looking at prexisting class structures, finding methods and attributes that will help me accomplish a specific task, and making modifications to the code to add new content to the game. Successfully added custom items, blocks, and mobs.\nCurrently working on a C++ physics engine for a game modeled after The Legend of Zelda: Link’s Awakening. Uses a heirarchical structure of classes with an emphasis on inheritance and polymorphism\nUsing C#, created a physics engine for a Mario-style platformer with gravity, collisions, and working wall-jump mechanics\nMario Physics Engine in C#",
     "crumbs": [
       "Object-Oriented Programming"
     ]
@@ -59,17 +59,37 @@
     "href": "ml.html",
     "title": "Machine Learning",
     "section": "",
-    "text": "MarkDown Basics",
+    "text": "Experience building custom models using components from libraries such as Tensorflow, training the models for a set number of epochs using Google Colab, and saving/importing models for use in full-stack applications",
     "crumbs": [
       "Machine Learning"
     ]
   },
   {
-    "objectID": "ml.html#title-2-header",
-    "href": "ml.html#title-2-header",
+    "objectID": "ml.html#training-models",
+    "href": "ml.html#training-models",
     "title": "Machine Learning",
     "section": "",
-    "text": "MarkDown Basics",
+    "text": "Experience building custom models using components from libraries such as Tensorflow, training the models for a set number of epochs using Google Colab, and saving/importing models for use in full-stack applications",
+    "crumbs": [
+      "Machine Learning"
+    ]
+  },
+  {
+    "objectID": "ml.html#neural-networks",
+    "href": "ml.html#neural-networks",
+    "title": "Machine Learning",
+    "section": "Neural Networks",
+    "text": "Neural Networks\nCreated models for image processing, next-line word embedding, and sentiment analysis using concurrent and recurrent neural networks",
+    "crumbs": [
+      "Machine Learning"
+    ]
+  },
+  {
+    "objectID": "ml.html#regression",
+    "href": "ml.html#regression",
+    "title": "Machine Learning",
+    "section": "Regression",
+    "text": "Regression\nTrained several regression models using libraries such as Tensorflow and sklearn, then measured their performance on predicting a hold-out set of data using indicators such as r^2 score and mean squared error\nSentiment Analysis",
     "crumbs": [
       "Machine Learning"
     ]
@@ -91,7 +111,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Hi, welcome to my web site!",
+    "title": "Welcome to my web site!",
     "section": "",
     "text": "Back to top"
   },
@@ -177,7 +197,7 @@
     "href": "algorithms.html",
     "title": "Algorithms",
     "section": "",
-    "text": "Python, C#, Java, JavaScript\n\n\n\nC++, Rust\n\n\n\nGoLang, C",
+    "text": "Built several small projects meant to demonstrate principles of parallelism and concurrency using threads, processes, semaphores, pools, pipes, and more\nLikewise built several small projects in C# to demonstrate use of algorithms for analysis of their time complexities, including tree sorting algorithms such as DAG-shortest path and Dijkstra’s method, along with sorting algorithms such as bubble sort and merge sort\n\n\n\nJava, JavaScript, C++, Rust",
     "crumbs": [
       "Algorithms"
     ]
@@ -187,7 +207,7 @@
     "href": "algorithms.html#proficiencies-overview",
     "title": "Algorithms",
     "section": "",
-    "text": "Python, C#, Java, JavaScript\n\n\n\nC++, Rust\n\n\n\nGoLang, C",
+    "text": "Built several small projects meant to demonstrate principles of parallelism and concurrency using threads, processes, semaphores, pools, pipes, and more\nLikewise built several small projects in C# to demonstrate use of algorithms for analysis of their time complexities, including tree sorting algorithms such as DAG-shortest path and Dijkstra’s method, along with sorting algorithms such as bubble sort and merge sort\n\n\n\nJava, JavaScript, C++, Rust",
     "crumbs": [
       "Algorithms"
     ]

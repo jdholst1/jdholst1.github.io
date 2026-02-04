@@ -25,17 +25,31 @@ AI Models, Graphic User Interfaces, Data Organization
 __BYU-Idaho__
 
 Bachelor's of Computer Science, with a Minor in Mathematics and emphasis on Machine Learning
-
+- 3.83 GPA
 
 ## Occupation
 
-`2022-Present`
+`April-July 2025`
+__Software Developer Intern__, Case Tech, LLc
+
+- Customized several EC2 instances to the needs of a project: implemented network traffic rules, set private keys, 
+used SSH to access servers, and used different CPU types to host them 
+- Used Wordpress to create a front-end interface for a company website, with Docker, MySQL, and Bash used to 
+build the work environment; utilized wireframes in development 
+- Created a job board React app designed similar the interface of indeed.com, with implemented OAuth and 
+connection to a MySQL database through JS Node
+
+`2022-2026`
 __Shift Lead__, Walgreens Co.
 
-- Took the lead in ensuring photo orders were being completed on time, that supplies were readily available, and that customers were satisfied with their orders; this involved making phone calls with customers on orders not received and with a third party organization to track sendout orders
-- Exercised problem-solving skills in resolving concerns with pricing mismatches, handling technical problems at the registers, and ensuring proper handling of company proceedures with a focus on customer satisfaction
-- Trained employees on efficient shelf-stocking practices, keeping a clean workspace, and how to efficiently fill out online and photo orders, including passport photos, canvas prints, and customized merchandise
-- Took feedback from the store manager and communicated with other members of store leadership to ensure that problems that extended beyond my shift would be appropriately handled
+- Resolved connection issues, printer jams, and other computer-related problems that coworkers could not resolve 
+themselves, saving time and money that would go into fix-it tickets 
+- Used algorithmic thinking to make inventory counts up to 20% more accurate 
+- Reduced time spent both stocking and resetting shelves by up to 30% with principles of time complexity 
+- Trained several coworkers on procedures relating to money handling, step-by-step assembly of products in the 
+photo lab, and making reports of daily compliance with company policy 
+- Exercised reasoning skills and best judgment in finding creative solutions to a variety of problems, including 
+finding lost photo orders, resolving computer errors with reading coupons, and fixing mismatching price labels
 
 `2019`
 __Data Entry__, North Park Transportation

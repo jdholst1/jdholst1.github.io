@@ -4,8 +4,14 @@ subtitle: "Using Jupyter notebooks, Tensorflow, Google Colab, and Databricks"
 # use quarto markdown to 
 ---
 
-# Title 1 Header
-## Title 2 Header
+## Training Models
+Experience building custom models using components from libraries such as Tensorflow, training the models for a set number of epochs using Google Colab, and saving/importing models for use in full-stack applications
 
-[MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+## Neural Networks
+Created models for image processing, next-line word embedding, and sentiment analysis using concurrent and recurrent neural networks
+
+## Regression
+Trained several regression models using libraries such as Tensorflow and sklearn, then measured their performance on predicting a hold-out set of data using indicators such as r^2 score and mean squared error
+
+[Sentiment Analysis](https://github.com/jdholst1/Sentiment-Analysis-Tool)
 
