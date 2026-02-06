@@ -1,6 +1,13 @@
 ---
-title: "Welcome to my web site!"
-subtitle: "Each of the pages here gives an overview of my skills in a given field of technology."
+title: "Jacob Holst"
+subtitle: "Software Engineer, Full-Stack Developer, Data Scientist"
 # use quarto markdown to 
 ---
 
+## About Me
+
+### What I'm Looking For
+Right now I want to be part of a team and get more experience with building computer systems. I'm flexible with whatever the tech stack includes, and I want to learn new things as well as contribute what I already have.
+
+### Long-Term Goal
+My main goal is to write and maintain quality code that makes a difference. I don't aspire to a role that is more management than it is coding, but I do want to be a dependable, senior-level programmer that can take charge of major aspects of a project.

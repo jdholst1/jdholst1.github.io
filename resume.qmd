@@ -16,7 +16,7 @@ Python, C#/C++, JavaScript
 
 ### Research interests
 
-AI Models, Graphic User Interfaces, Data Organization
+Graphic User Interfaces, AI Models, Data Organization
 
 
 ## Education
